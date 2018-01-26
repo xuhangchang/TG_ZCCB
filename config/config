@@ -1,0 +1,7 @@
+EXTRACT_RESULT_PATH_A=../result/extract_result_A.txt
+EXTRACT_RESULT_PATH_B=../result/extract_result_B.txt
+MATCH_RESULT_PATH=../result/match_result.txt
+RATE_RESULT_PATH=../result/rate_result.txt
+BMP_DIR_A=/sd/A
+BMP_DIR_B=/sd/B
+DAT_DIR=../dat

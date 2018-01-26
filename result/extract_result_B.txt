@@ -1,0 +1,7 @@
+001X_2_1_1.bmp transfer
+001X_10_1_1.bmp transfer
+001X_9_1_1.bmp transfer
+001X_1_1_1.bmp transfer
+001X_6_1_1.bmp transfer
+001X_0_1_1.bmp transfer
+总转换次数:6 转换成功次数:6 转换失败次数:0 总转换时间:225ms 平均转换时间:37ms
